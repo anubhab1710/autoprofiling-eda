@@ -1,1 +1,1 @@
-# autoprofiling-eda
+# Python EDA with Auto-Profiling Tools
